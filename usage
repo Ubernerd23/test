@@ -1,0 +1,6 @@
+//how to use
+git init //inside project folder
+git add .
+git commit -m "coom"
+git remote add origin https://github.com/Ubernerd23/test.git
+git push -u origin master
